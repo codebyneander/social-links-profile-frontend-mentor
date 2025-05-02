@@ -10,13 +10,16 @@ body {
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  background-color: #141414;
+  background-color: hsl(0, 0%, 8%);
 }
 
 .container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
   width: 383px;
   height: 610px;
-  background-color: #1F1F1F;
+  background-color: hsl(0, 0%, 12%);
   border-radius: 15px;
 }
 
@@ -27,6 +30,43 @@ body {
   margin-top: 40px;
   margin-left: 145px;
   margin-right: 145px;
-  margin-bottom: 30px;
+  margin-bottom: 28px;
 }
 
+.personal {
+  display: flex;
+  flex-direction: column;
+  width: 180px;
+  height: 60px;
+  margin-left: 100px;
+  margin-right: 100px;
+  gap: 5px;
+}
+
+.personal h1 {
+    color: hsl(0, 0%, 100%);
+    font-family: "Inter", sans-serif;
+    font-size: 21px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.personal p {
+  color: hsl(75, 94%, 57%);
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  text-align: center;
+}
+
+.description {
+  width: 255px;
+  height: 15px;
+  margin-left: 64px;
+  color: hsl(0, 0%, 100%);
+  font-family: "Inter", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  text-align: center;
+  margin-top: 25px;
+}
