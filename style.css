@@ -14,9 +14,19 @@ body {
 }
 
 .container {
-  display: flex;
   width: 383px;
   height: 610px;
   background-color: #1F1F1F;
   border-radius: 15px;
 }
+
+.container img {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  margin-top: 40px;
+  margin-left: 145px;
+  margin-right: 145px;
+  margin-bottom: 30px;
+}
+
