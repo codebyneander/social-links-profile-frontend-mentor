@@ -22,7 +22,7 @@ O desafio era construir um componente de cartão de perfil com:
 ## 🌐 Links
 
 - **🔗 Live Site:** [Visualizar projeto ao vivo](https://codebyneander.github.io/social-links-profile-frontend-mentor/)
-- **📁 Solução no Frontend Mentor:** [Minha solução](https://www.frontendmentor.io/solutions/social-links-profile-xyz)
+- **📁 Solução no Frontend Mentor:** [Minha solução](https://www.frontendmentor.io/solutions/desafio-3-pgina-com-hover-e-focus-social-links-profile-4Art25xnbJ)
 
 ---
 
