@@ -66,7 +66,7 @@ O desafio era construir um componente de cartão de perfil com:
 ## 👤 Autor
 
 - Nome: **Renan Guilherme**
-- Frontend Mentor: [@renan-guilherme](https://www.frontendmentor.io/profile/renan-guilherme)
+- Frontend Mentor: [@renan-guilherme](https://www.frontendmentor.io/profile/codebyneander)
 - Instagram Dev: [@renanguilherme.dev](https://instagram.com/renanguilherme.dev)
 - LinkedIn: [Renan Guilherme](https://linkedin.com/in/renan-guilherme)
 
